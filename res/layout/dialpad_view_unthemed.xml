@@ -136,7 +136,6 @@
         android:layout_weight="1"
         android:autoText="true"
         android:background="@android:color/transparent"
-        android:hint="@string/to_hint"
         android:maxLength="2000"
         android:maxLines="3"
         android:minHeight="48dip"
